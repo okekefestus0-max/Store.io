@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+data/runtime
+data/events.json
+data/applications.json
+data/orders.json
+.vercel
+tsconfig.tsbuildinfo
