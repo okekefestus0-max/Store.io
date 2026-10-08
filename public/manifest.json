@@ -1,0 +1,9 @@
+{
+  "name": "STYLESORT",
+  "short_name": "STYLESORT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#141210",
+  "description": "Find It. Sort It. Wear It."
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "plg-house-note",
+    "name": "House note",
+    "slug": "house-note",
+    "enabled": false,
+    "version": "1.0.0",
+    "description": "A line under the hero. Turn it on when the studio has something to say.",
+    "slots": [
+      "home-after-hero"
+    ],
+    "kind": "html",
+    "html": "<p class=\"kicker\">From the studio</p><p>Edit this note in Staff, under Plugins.</p>",
+    "events": [],
+    "config": {},
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z"
+  }
+]
